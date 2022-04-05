@@ -1,0 +1,22 @@
+h1{
+    color: blueviolet;
+}
+
+
+
+ul {
+    border: 5px dotted;
+    width: 50%;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+
+}
+
+
+ul li {
+    border: outset;
+    display: inline-block;
+    
+}
